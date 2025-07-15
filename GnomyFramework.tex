@@ -1,46 +1,76 @@
 \documentclass{article}
-\usepackage{geometry}
-\geometry{a4paper, margin=1in}
-\usepackage{ragged2e}
-\usepackage{enumitem}
+\usepackage[a4paper, margin=1in]{geometry} % More concise geometry
+\usepackage{ragged2e} % For justified text
+\usepackage{enumitem} % For custom list item spacing
 \usepackage{fontawesome5} % For icons like compass
-\usepackage{hyperref}
-\usepackage{titlesec}
-\usepackage{xcolor} % For coloring text
-\usepackage{tikz} % For drawing the gnome illustration
+\usepackage{hyperref} % For hyperlinks
+\usepackage[svgnames]{xcolor} % For more color options
+\usepackage{titlesec} % For custom section formatting
+\usepackage{tikz} % For drawing the gnome illustration (if you include it later)
+\usepackage[most]{tcolorbox} % For beautiful boxes
+\usepackage{microtype} % For better typography (font protrusion, character tracking etc.)
 
-
+% Define Victorian-inspired colors
+\definecolor{VictorianDeepGreen}{HTML}{2F4F4F} % Dark Slate Gray
+\definecolor{VictorianPlum}{HTML}{673147}    % Muted Plum/Deep Rose
+\definecolor{VictorianTeal}{HTML}{008080}    % Teal
+\definecolor{VictorianGold}{HTML}{B8860B}    % Dark Goldenrod
+\definecolor{VictorianBrown}{HTML}{8B4513}   % Saddle Brown
+\definecolor{VictorianGrey}{HTML}{4F4F4F}    % Dark Grey
+\definecolor{VictorianCream}{HTML}{F5F5DC}   % Beige
 
 % Creative Commons License (CC BY 4.0)
+% Using tcolorbox for a visually appealing license notice
+\tcbset{
+  licensebox/.style={
+    colback=VictorianCream,     % Creamy background
+    colframe=VictorianGrey,    % Dark Grey frame
+    boxsep=5pt,                 % Space between content and box
+    arc=4pt,                    % Rounded corners
+    boxrule=0.5pt,              % Thin border
+    left=10pt,right=10pt,top=5pt,bottom=5pt, % Padding
+    fonttitle=\bfseries,
+    fontupper=\small,
+    halign title=center,
+    valign=middle,
+    nobeforeafterifvbox
+  }
+}
 
-\usepackage[
-  type={CC},
-  version={4.0},
-  modifier={by}
-]{doclicense}
-\doclicense[
-  type={CC},
-  version={4.0},
-  lang={en},
-  author={Rickard V. Hultgren},
-  title={The Gnomy Framework version 1.0: Cultivating Emotional \& Strategic Clarity}
-]{by}
+\newcommand{\printgnomylicense}{%
+\begin{tcolorbox}[licensebox]
+  \centering
+  \textbf{Creative Commons Attribution 4.0 International License (CC BY 4.0)} \\
+  This work, "The Gnomy Framework version 1.0: Cultivating Emotional \& Strategic Clarity," by Rickard V. Hultgren, is licensed under a Creative Commons Attribution 4.0 International License. To view a copy of this license, visit \url{http://creativecommons.org/licenses/by/4.0/}. \\
+  \faIcon{creative-commons} \faIcon{creative-commons-by}
+\end{tcolorbox}
+}
 
-% Custom section formatting
-\titleformat{\section}[block]{\Large\bfseries\centering}{\thesection.}{1em}{}
-\titleformat{\subsection}[block]{\large\bfseries}{\thesubsection.}{1em}{}
+% Custom section formatting with more visual flair using Victorian colors
+\titleformat{\section}[block]{\centering\color{VictorianDeepGreen}\huge\bfseries}{\thesection.}{1em}{\color{VictorianTeal}\rule{\linewidth}{0.8pt}\\[1ex]}
 \titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+
+\titleformat{\subsection}[hang]{\color{VictorianPlum}\Large\bfseries}{\thesubsection.}{1em}{}
 \titlespacing*{\subsection}{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
 
 \begin{document}
 
 \begin{center}
-    \textbf{\Huge The Gnomy Framework version 1.0} \\\large By Rickard V. Hultgren: Cultivating Emotional \& Strategic Clarity
+    \vspace*{1em} % Add some vertical space
+    \color{VictorianBrown}\textbf{\Huge The Gnomy Framework \version{1.0}} \\
+    \vspace{0.5em} % Space between title and author
+    \color{VictorianGrey}\large By Rickard V. Hultgren: Cultivating Emotional \& Strategic Clarity
+    \vspace{1em} % Space after author line
 \end{center}
 
-\justify
+\printgnomylicense % Print the custom license box
+
+\vspace{1em} % Space after the license box
+
+\justify % Ensures the text is justified
 The Gnomy Framework is a structured yet flexible tool designed to enhance emotional self-leadership, coaching, reflection, and narrative transformation. It's particularly powerful when navigating complexity, change, or interpersonal dynamics. Here's a clear breakdown of its purpose and applications, categorized by intent and user contexts.
 
+---
 ---
 
 \section{Core Purpose of the Gnomy Framework}
@@ -145,48 +175,9 @@ To support leaders in:
 
 \section{In Short: The Gnomy Framework}
 The Gnomy Framework is a compass for emotional and strategic clarity. It helps people slow down, reflect deeply, and move forward wisely. It belongs in the toolkit of coaches, creators, leaders, therapists, facilitators, and reflective individuals seeking to bridge emotion and action with intelligence and care.
-
-\begin{figure}[h!]
-    \centering
-    \begin{tikzpicture}
-        % Gnome body
-        \draw[fill=green!60!black, draw=black, thick] (0,0) ellipse (1.5cm and 2cm);
-        % Gnome hat
-        \draw[fill=red!80!black, draw=black, thick] (-1.5, 1.5) arc (180:0:1.5cm and 2cm) -- (0, 4) -- cycle;
-        % Nose
-        \draw[fill=pink!50!white, draw=black, thick] (0, 0.5) circle (0.5cm);
-        % Left hand (lantern)
-        \draw[thick, black] (-2, -1) -- (-2.5, -0.5) -- (-2.2, 0.2) -- (-1.8, -0.2) -- cycle;
-        \fill[orange!50!yellow, opacity=0.7] (-2.2, -0.2) rectangle (-1.8, 0); % Lantern glow
-        \node at (-2.3, -1.2) {FLAME};
-
-        % Right hand (sage leaf)
-        \draw[thick, black] (2, -1) -- (2.5, -0.5) -- (2.2, 0.2) -- (1.8, -0.2) -- cycle;
-        \fill[green!40!brown, opacity=0.7] (2.1, -0.1) ellipse (0.3cm and 0.6cm); % Sage leaf
-        \node at (2.3, -1.2) {SAGE};
-
-        % Left shoulder (crow)
-        \draw[fill=black, draw=black, thick] (1, 1.5) arc (180:0:0.8cm and 0.5cm) -- (2.5, 2) arc (0:180:0.8cm and 0.5cm) -- cycle;
-        \draw[fill=black, draw=black, thick] (2, 2.3) ellipse (0.3cm and 0.15cm); % Crow head
-        \draw[fill=black, thick] (2.3, 2.3) -- (2.6, 2.2) -- (2.3, 2.1) -- cycle; % Beak
-        \node at (2, 1) {CROWS};
-
-        % Right shoulder (spark)
-        \draw[fill=yellow!80!red, opacity=0.7] (-1, 1.5) circle (0.3cm); % Spark
-        \foreach \i in {1,...,6} {
-            \draw[yellow!80!red, thick, rotate=\i*60] (-1, 1.5) -- (-1+0.5, 1.5+0.5);
-        }
-        \node at (-1, 1) {SPARK};
-
-        % Footprints (simplified)
-        \draw[fill=brown!50!black, opacity=0.5] (-0.5, -2.5) ellipse (0.5cm and 0.2cm);
-        \draw[fill=brown!50!black, opacity=0.5] (0.5, -2.5) ellipse (0.5cm and 0.2cm);
-        \node at (0, -3) {GNOMY: Grounding, Narrative, Others, More, and Yikes!};
-    \end{tikzpicture}
-    \caption{A Gnomish Journey of Reflection}
-    \label{fig:gnome_journey}
-\end{figure}
-
+\begin{center}
+\includegraphics[width=0.8\linewidth]{GNOMY.png}
+\end{center}
 Imagine this: A Gnomish Journey of Reflection. A small gnome stands at the edge of a path, ready to journey into a moment of reflection.
 
 In their left shoulder, the gnome holds a lantern of current feeling. From bottles in their belt, filled with luminescent powder of different colors, the gnome pours some powder into the lantern, and it begins to glow. This represents the \textbf{FLAME} of their inner narrative.
