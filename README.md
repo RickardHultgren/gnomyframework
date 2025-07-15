@@ -103,12 +103,4 @@ To support leaders in:
 
 The Gnomy Framework is a compass for emotional and strategic clarity. It helps people slow down, reflect deeply, and move forward wisely. It belongs in the toolkit of coaches, creators, leaders, therapists, facilitators, and reflective individuals seeking to bridge emotion and action with intelligence and care.
 
-![A Gnomish Journey of Reflection](gnomy-journey.png)
 
-**Figure**: *A Gnomish Journey of Reflection*
-
-Imagine this: A Gnomish Journey of Reflection. A small gnome stands at the edge of a path, ready to journey into a moment of reflection.
-
-In their left shoulder, the gnome holds a lantern of current feeling. From bottles in their belt, filled with luminescent powder of different colors, the gnome pours some powder into the lantern, and it begins to glow. This represents the **FLAME** of their inner narrative.
-
-On the right...
