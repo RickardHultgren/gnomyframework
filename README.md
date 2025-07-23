@@ -92,7 +92,7 @@ To support leaders in:
 | Stage | Purpose | Function |
 |-------|---------|----------|
 | **G – Grounding (FIND)** | Establish presence and perspective. | Breath, pause, curiosity, perspective framing. |
-| **N – Narrative (FLAME)** | Understand internal drives and tensions. | Identify pain points and feelings towards the challenge. |
+| **N – Narrative (LUX)** | Understand internal drives and tensions. | Identify pain points and feelings towards the challenge. |
 | **O – Others (CROWS)** | Map relational influences and shared identity. | Understand self and others across time. |
 | **M – More (SPARK)** | Identify inner and outer resources. | Leverage strengths, relationships, knowledge. |
 | **Y – Yikes! (SAGE)** | Strategize through risks and change. | Assess risk spectrum, derive action, prioritize, evolve. |
