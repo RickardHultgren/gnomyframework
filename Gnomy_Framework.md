@@ -344,9 +344,9 @@ evaluate outcomes and adapt.
         bridge to the next cycle, grounding future action in real
         insight and shared learning.
 
-### Feedback Loop ###
+### Feedback Loop
 
- If your plan feels shaky, your emotions shift, or new obstacles appear,
+If your plan feels shaky, your emotions shift, or new obstacles appear,
 it's like the gnome realizing their current plant isn't stable or the
 path forward is unclear. In such moments, the gnome doesn't despair;
 instead, they might return to **Step 0 (Grounding)** to steady their
@@ -355,7 +355,7 @@ re-evaluate the story of where they are and where they want to go. The
 Gnomy Framework, much like the interconnected plants in the pond, is
 cyclical and flexible---designed for ongoing clarity, growth, and
 recalibration as you navigate from one \"situation-plant\" to the next.
----
+
 
 ## Why the Gnomy Framework Should Work
 
