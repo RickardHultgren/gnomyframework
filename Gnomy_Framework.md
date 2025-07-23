@@ -2,10 +2,10 @@
 By Rickard V. Hultgren: Cultivating Emotional & Strategic Clarity
 
 **Creative Commons Attribution 4.0 International License (CC BY 4.0)**\
-The Gnomy Framework version 1.0: Cultivating Emotional &
+This work, \"The Gnomy Framework version 1.0: Cultivating Emotional &
 Strategic Clarity,\" by Rickard V. Hultgren, is licensed under a
 Creative Commons Attribution 4.0 International License. To view a copy
-of this license, visit <http://creativecommons.org/licenses/by/4.0/>.
+of this license, visit <http://creativecommons.org/licenses/by/4.0/>.\
 
 The Gnomy Framework is a structured yet flexible tool designed to
 enhance emotional self-leadership, coaching, reflection, and narrative
@@ -13,7 +13,7 @@ transformation. It's particularly powerful when navigating complexity,
 change, or interpersonal dynamics. Here's a clear breakdown of its
 purpose and applications, categorized by intent and user contexts.
 
---- ---
+ 
 
 ## Core Purpose of the Gnomy Framework
 
@@ -35,7 +35,7 @@ and personal strategy-making. It's an ideal tool for coaching, personal
 growth, mental health support, group reflection, and leadership
 training.
 
----
+
 
 ## What Gnomy Should Be Used For
 
@@ -91,7 +91,7 @@ To support leaders in:
 -   Creating roadmaps that account for psychological barriers and
     enablers.
 
----
+
 
 ## What Gnomy Could Be Used For (Extensions and Creative Use)
 
@@ -124,19 +124,19 @@ To support leaders in:
 -   Create journaling prompts, guided meditations, or team debrief
     templates using each step.
 
----
+
 
 ## Summary of Gnomy Component Roles
 
   **Stage**            **Purpose**                                      **Function**
-  -------------------- ------------------------------------------------ ------------------------------------------------------------------------------------------
+  --  
   **G -- Grounding**   Establish presence and perspective.              Breath, pause, curiosity, perspective framing.
   **N -- Narrative**   Understand internal drives and tensions.         Identify pain points and feelings towards the challenge using the **LUX Lantern model**.
   **O -- Others**      Map relational influences and shared identity.   Understand self and others across time.
   **M -- More**        Identify inner and outer resources.              Leverage strengths, relationships, knowledge.
   **Y -- Yikes!**      Strategize through risks and change.             Assess risk spectrum, derive action, prioritize, evolve.
 
----
+
 
 ## In Short: The Gnomy Framework
 
@@ -181,11 +181,11 @@ And so, this gnome walks -- leaving footprints shaped by emotion,
 relationship, strength, and restraint. Every step is a journey through
 GNOMY: Grounding, Narrative, Others, More, and Yikes.
 
----
+
 
 ## The Gnomy Framework: Your Step-By-Step Guide
 
-### Step 0: Grounding (FIND) --- Find Your Inner Position
+### Step 0: Grounding (FIND)  Find Your Inner Position
 
 FIND helps you regain perspective by pausing to explore goals, emotions,
 and responsibility with intention.
@@ -243,7 +243,7 @@ through three key axes:
 
 #### 1.2 Others (CROWS) -- Who Else Is Part of This Emotional Story?
 
-We are shaped by relationships---past, present, and imagined. A crow
+We are shaped by relationshipspast, present, and imagined. A crow
 will fly to other gnomes, inviting them to transfer their insights to
 your understanding. Ask **CROWS** to place your experience in a broader
 social context:
@@ -269,7 +269,7 @@ social context:
 
 Imagine the gnome's current situation as a plant in a pond. To move to
 another \"situation\" (represented by a different plant), the gnome
-needs a leaf boat---an old, dried leaf from their personal leaf heap.
+needs a leaf boatan old, dried leaf from their personal leaf heap.
 The gnome steers a floating spark in the air by twisting and gesturing
 with their left hand. This spark, when moved circularly, heats the
 surrounding air, creating a gentle wind. With this wind, the gnome
@@ -287,7 +287,7 @@ inventory the personal and interpersonal resources available to you:
 -   **Strengths**: What abilities, traits, or skills do you bring to
     this moment?
 
--   **Possibilities**: What courses of action exist? Be creative---don't
+-   **Possibilities**: What courses of action exist? Be creativedon't
     filter options yet.
 
 -   **Assets**: What tangible and intangible resources (e.g., tools,
@@ -328,7 +328,7 @@ evaluate outcomes and adapt.
 
 -   **Gauge**: Assess urgency and importance.
 
--   **Evolution**: The world changes---and so do you.
+-   **Evolution**: The world changesand so do you.
 
     -   **Examine**: What feedback are you receiving?
 
@@ -340,7 +340,7 @@ evaluate outcomes and adapt.
         through your Gnomy process. What pain points were resolved? What
         challenges remain or new tensions arose? Who benefited, who was
         affected, and what became clearer? Share this with those
-        impacted by the results. This step isn't just closure---it's a
+        impacted by the results. This step isn't just closureit's a
         bridge to the next cycle, grounding future action in real
         insight and shared learning.
 
@@ -353,7 +353,7 @@ instead, they might return to **Step 0 (Grounding)** to steady their
 footing on their current plant, or revisit **Step 1 (Narrative)** to
 re-evaluate the story of where they are and where they want to go. The
 Gnomy Framework, much like the interconnected plants in the pond, is
-cyclical and flexible---designed for ongoing clarity, growth, and
+cyclical and flexibledesigned for ongoing clarity, growth, and
 recalibration as you navigate from one \"situation-plant\" to the next.
 
 
@@ -364,8 +364,8 @@ recalibration as you navigate from one \"situation-plant\" to the next.
 DBT Mindfulness & MBSR provide strong evidence that grounding techniques
 like breathing and pausing improve emotional regulation, reduce anxiety,
 and enhance cognitive clarity [@linehan1993cognitive; @kabat1990full].
-Gnomy's FIND sequence---"Feel breath, Introduce pause, Notice curiosity,
-Define perspective"---mirrors widely used and validated techniques such
+Gnomy's FIND sequence"Feel breath, Introduce pause, Notice curiosity,
+Define perspective"mirrors widely used and validated techniques such
 as STOP and body scans in DBT.
 
 ### Narrative & Externalization (LUX + CROWS)
@@ -379,7 +379,7 @@ meaning. The **LUX** step aligns with these methods by encouraging
 emotional labeling, meaning-making, and introspective clarity through
 the lens of longing, usefulness, and friction. The CROWS stage brings in
 elements of mentalization [@fonagy2002affect], perspective-taking, and
-attachment theory [@bowlby1969attachment]---all essential for emotional
+attachment theory [@bowlby1969attachment]all essential for emotional
 intelligence and relationship repair. Reflecting on the role of others
 (real, imagined, past, future) creates space for compassion,
 re-interpretation, and systemic insight.
@@ -391,7 +391,7 @@ SPARK mirrors concepts from solution-focused brief therapy
 resilience theory. Shifting attention toward resources, relationships,
 and internal strengths has been shown to increase optimism, motivation,
 and problem-solving capacity. It also encourages autonomy and
-competence---two key components of self-determination theory
+competencetwo key components of self-determination theory
 [@ryan2000self].
 
 ### Risk Mapping & Action Planning (SAGE)
@@ -405,7 +405,7 @@ equipped to evaluate trade-offs, mitigate anxiety, and act
 intentionally. It also reflects ACT (Acceptance and Commitment Therapy)
 principles by balancing risk acceptance with committed action
 [@hayes1999acceptance], and the OODA loop (Observe--Orient--Decide--Act)
-from military and strategic planning [@boyd1986destruction]---creating a
+from military and strategic planning [@boyd1986destruction]creating a
 feedback loop that favors adaptive iteration over rigid execution.
 
 ### Iterative and Cyclical Design
@@ -416,12 +416,12 @@ stuck) aligns with how humans process uncertainty and change. This makes
 it ideal for personal development, emotional healing, or strategic
 leadership in unpredictable environments [@kolb1984experiential].
 
----
+
 
 ## Suggested Use Cases by Profession
 
   **Role**               **Example Use**
-  ---------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  - 
   **Coach**              Guide a client through a business pivot using **LUX** to understand underlying emotional drives and then SPARK $\rightarrow$ SAGE to reframe fears and strategize action.
   **Therapist**          Use CROWS to help a client understand how childhood dynamics shape current interpersonal reactions, and then **LUX** to explore the emotional longing, usefulness, and friction present in their current relationships.
   **Team Facilitator**   Run a post-project debrief using FIND and **LUX** to explore what worked emotionally and interpersonally, specifically addressing the team's shared longing, perceptions of usefulness, and points of friction.
@@ -429,21 +429,21 @@ leadership in unpredictable environments [@kolb1984experiential].
   **Educator**           Integrate the Gnomy framework into leadership or emotional intelligence curricula to foster reflective decision-making, encouraging students to use **LUX** to analyze the emotional components of complex problems.
   **Mediator**           Apply CROWS and SAGE with conflicting parties to find shared history, individual concerns, and acceptable compromises, enhanced by using **LUX** to understand the underlying emotional drivers (longing, usefulness, friction) contributing to each party's perspective.
 
----
+
 
 ## Summary: Why the World Needs Gnomy
 
 In an era of burnout, isolation, polarization, and rapid change, the
 Gnomy Framework gives people a structured, imaginative way to reconnect
 with their inner compass and with each other. It invites emotional
-honesty and strategic thinking into the same space---bridging feeling
+honesty and strategic thinking into the same spacebridging feeling
 and action, pain and power, isolation and connection. It empowers people
 not just to cope, but to cultivate meaning, collaborate wisely, and lead
 with heart.
 
----
 
-## thebibliography
+
+# thebibliography
 99 Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline
 Personality Disorder*. Guilford Press. Kabat-Zinn, J. (1990). *Full
 Catastrophe Living: Using the Wisdom of Your Body and Mind to Face
