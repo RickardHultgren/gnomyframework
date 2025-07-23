@@ -344,7 +344,7 @@ evaluate outcomes and adapt.
         bridge to the next cycle, grounding future action in real
         insight and shared learning.
 
-### Feedback Loop
+### Feedback Loop ###
 
  If your plan feels shaky, your emotions shift, or new obstacles appear,
 it's like the gnome realizing their current plant isn't stable or the
