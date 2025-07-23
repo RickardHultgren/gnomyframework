@@ -1,15 +1,11 @@
-::: center
-**The Gnomy Framework**\
+# The Gnomy Framework
 By Rickard V. Hultgren: Cultivating Emotional & Strategic Clarity
-:::
 
-::: tcolorbox
 **Creative Commons Attribution 4.0 International License (CC BY 4.0)**\
-This work, \"The Gnomy Framework version 1.0: Cultivating Emotional &
+The Gnomy Framework version 1.0: Cultivating Emotional &
 Strategic Clarity,\" by Rickard V. Hultgren, is licensed under a
 Creative Commons Attribution 4.0 International License. To view a copy
-of this license, visit <http://creativecommons.org/licenses/by/4.0/>.\
-:::
+of this license, visit <http://creativecommons.org/licenses/by/4.0/>.
 
 The Gnomy Framework is a structured yet flexible tool designed to
 enhance emotional self-leadership, coaching, reflection, and narrative
@@ -19,7 +15,7 @@ purpose and applications, categorized by intent and user contexts.
 
 --- ---
 
-# Core Purpose of the Gnomy Framework
+## Core Purpose of the Gnomy Framework
 
 The Gnomy Framework provides a structured journey for individuals and
 groups to:
@@ -41,9 +37,9 @@ training.
 
 ---
 
-# What Gnomy Should Be Used For
+## What Gnomy Should Be Used For
 
-## Coaching & Mentorship
+### Coaching & Mentorship
 
 To help clients:
 
@@ -55,7 +51,7 @@ To help clients:
 
 -   Clarify responsibilities and action options in relational contexts.
 
-## Self-Reflection & Emotional Navigation
+### Self-Reflection & Emotional Navigation
 
 For individuals to:
 
@@ -68,7 +64,7 @@ For individuals to:
 
 -   Develop resilience through narrative self-work and emotional agency.
 
-## Team & Group Dynamics
+### Team & Group Dynamics
 
 For use in teams to:
 
@@ -81,7 +77,7 @@ For use in teams to:
 
 -   Balance personal contributions with team-wide needs.
 
-## Leadership & Strategy Design
+### Leadership & Strategy Design
 
 To support leaders in:
 
@@ -97,9 +93,9 @@ To support leaders in:
 
 ---
 
-# What Gnomy Could Be Used For (Extensions and Creative Use)
+## What Gnomy Could Be Used For (Extensions and Creative Use)
 
-## Mental Health & Therapeutic Dialogue
+### Mental Health & Therapeutic Dialogue
 
 -   Integrate into DBT, ACT, or narrative therapy contexts.
 
@@ -107,7 +103,7 @@ To support leaders in:
 
 -   Normalize self-doubt or avoidance as part of the SAGE map.
 
-## Conflict Mediation or Repair
+### Conflict Mediation or Repair
 
 -   Use with dyads or teams to unpack both perspectives in grounded,
     safe terms.
@@ -117,7 +113,7 @@ To support leaders in:
 
 -   Apply FIND to reduce misinterpretations or emotional reactivity.
 
-## Workshop & Curriculum Design
+### Workshop & Curriculum Design
 
 -   Design personal development workshops or group training around each
     Gnomy stage.
@@ -130,7 +126,7 @@ To support leaders in:
 
 ---
 
-# Summary of Gnomy Component Roles
+## Summary of Gnomy Component Roles
 
   **Stage**            **Purpose**                                      **Function**
   -------------------- ------------------------------------------------ ------------------------------------------------------------------------------------------
@@ -142,7 +138,7 @@ To support leaders in:
 
 ---
 
-# In Short: The Gnomy Framework
+## In Short: The Gnomy Framework
 
 The Gnomy Framework is a compass for emotional and strategic clarity. It
 helps people slow down, reflect deeply, and move forward wisely. It
@@ -187,9 +183,9 @@ GNOMY: Grounding, Narrative, Others, More, and Yikes.
 
 ---
 
-# The Gnomy Framework: Your Step-By-Step Guide
+## The Gnomy Framework: Your Step-By-Step Guide
 
-## Step 0: Grounding (FIND) --- Find Your Inner Position
+### Step 0: Grounding (FIND) --- Find Your Inner Position
 
 FIND helps you regain perspective by pausing to explore goals, emotions,
 and responsibility with intention.
@@ -217,9 +213,9 @@ yourself:
     Avoids blame, embraces complexity, promotes collective insight and
     equity thinking.
 
-## Step 1: Narrative of Emotion and Meaning
+### Step 1: Narrative of Emotion and Meaning
 
-### 1.1 Narrative (LUX) -- Explore Your Emotions and Their Roots
+#### 1.1 Narrative (LUX) -- Explore Your Emotions and Their Roots
 
 Emotions are signals, not noise. They reflect unmet needs, broken
 expectations, or meaningful desires. The **LUX Lantern model** helps you
@@ -245,7 +241,7 @@ through three key axes:
     dissatisfaction? This addresses the "must-be" qualities and sources
     of negative affect.
 
-### 1.2 Others (CROWS) -- Who Else Is Part of This Emotional Story?
+#### 1.2 Others (CROWS) -- Who Else Is Part of This Emotional Story?
 
 We are shaped by relationships---past, present, and imagined. A crow
 will fly to other gnomes, inviting them to transfer their insights to
@@ -267,9 +263,9 @@ social context:
 -   **Shared past**: What shared experiences or histories are
     influencing this moment?
 
-## Step 2: Reframe Through Shared Competence and Action
+### Step 2: Reframe Through Shared Competence and Action
 
-### 2.1 More (SPARK) -- Uncover Resources, Strengths, and Options
+#### 2.1 More (SPARK) -- Uncover Resources, Strengths, and Options
 
 Imagine the gnome's current situation as a plant in a pond. To move to
 another \"situation\" (represented by a different plant), the gnome
@@ -303,7 +299,7 @@ inventory the personal and interpersonal resources available to you:
 -   **Knowledge & Experience**: What lessons have you already learned?
     What frameworks or facts do you already hold?
 
-### 2.2 Yikes! (SAGE) -- Face Risks, Limits, and Priorities
+#### 2.2 Yikes! (SAGE) -- Face Risks, Limits, and Priorities
 
 On the tendril there are sage leaves growing, symbolizing the wisdom and
 often bitter truths involved in facing risks. Before committing to
@@ -348,7 +344,7 @@ evaluate outcomes and adapt.
         bridge to the next cycle, grounding future action in real
         insight and shared learning.
 
-## Feedback Loop
+### Feedback Loop
 
 If your plan feels shaky, your emotions shift, or new obstacles appear,
 it's like the gnome realizing their current plant isn't stable or the
@@ -361,9 +357,9 @@ cyclical and flexible---designed for ongoing clarity, growth, and
 recalibration as you navigate from one \"situation-plant\" to the next.
 ---
 
-# Why the Gnomy Framework Should Work
+## Why the Gnomy Framework Should Work
 
-## Mindfulness & Grounding (FIND)
+### Mindfulness & Grounding (FIND)
 
 DBT Mindfulness & MBSR provide strong evidence that grounding techniques
 like breathing and pausing improve emotional regulation, reduce anxiety,
@@ -372,7 +368,7 @@ Gnomy's FIND sequence---"Feel breath, Introduce pause, Notice curiosity,
 Define perspective"---mirrors widely used and validated techniques such
 as STOP and body scans in DBT.
 
-## Narrative & Externalization (LUX + CROWS)
+### Narrative & Externalization (LUX + CROWS)
 
 Psychological research and therapeutic models such as Narrative Therapy
 [@white1990narrative], Internal Family Systems (IFS)
@@ -388,7 +384,7 @@ intelligence and relationship repair. Reflecting on the role of others
 (real, imagined, past, future) creates space for compassion,
 re-interpretation, and systemic insight.
 
-## Resource-Oriented Thinking (SPARK)
+### Resource-Oriented Thinking (SPARK)
 
 SPARK mirrors concepts from solution-focused brief therapy
 [@de1997building], positive psychology [@seligman2011flourish], and
@@ -398,7 +394,7 @@ and problem-solving capacity. It also encourages autonomy and
 competence---two key components of self-determination theory
 [@ryan2000self].
 
-## Risk Mapping & Action Planning (SAGE)
+### Risk Mapping & Action Planning (SAGE)
 
 The SAGE component integrates strategic foresight/scenario planning
 [@schoemaker1995scenario], stress inoculation training
@@ -412,7 +408,7 @@ principles by balancing risk acceptance with committed action
 from military and strategic planning [@boyd1986destruction]---creating a
 feedback loop that favors adaptive iteration over rigid execution.
 
-## Iterative and Cyclical Design
+### Iterative and Cyclical Design
 
 Unlike rigid frameworks, Gnomy is built for real-life messiness. Its
 looping structure (returning to Grounding, Narrative, or Others when
@@ -422,7 +418,7 @@ leadership in unpredictable environments [@kolb1984experiential].
 
 ---
 
-# Suggested Use Cases by Profession
+## Suggested Use Cases by Profession
 
   **Role**               **Example Use**
   ---------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -435,7 +431,7 @@ leadership in unpredictable environments [@kolb1984experiential].
 
 ---
 
-# Summary: Why the World Needs Gnomy
+## Summary: Why the World Needs Gnomy
 
 In an era of burnout, isolation, polarization, and rapid change, the
 Gnomy Framework gives people a structured, imaginative way to reconnect
@@ -447,7 +443,7 @@ with heart.
 
 ---
 
-::: thebibliography
+## thebibliography
 99 Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline
 Personality Disorder*. Guilford Press. Kabat-Zinn, J. (1990). *Full
 Catastrophe Living: Using the Wisdom of Your Body and Mind to Face
@@ -472,4 +468,4 @@ Pergamon Press. Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999).
 Change*. Guilford Press. Boyd, J. R. (1986). *Destruction and Creation*.
 Unpublished manuscript. Kolb, D. A. (1984). *Experiential Learning:
 Experience as the Source of Learning and Development*. Prentice-Hall.
-:::
+
