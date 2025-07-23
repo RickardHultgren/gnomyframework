@@ -346,7 +346,7 @@ evaluate outcomes and adapt.
 
 ### Feedback Loop
 
-If your plan feels shaky, your emotions shift, or new obstacles appear,
+ If your plan feels shaky, your emotions shift, or new obstacles appear,
 it's like the gnome realizing their current plant isn't stable or the
 path forward is unclear. In such moments, the gnome doesn't despair;
 instead, they might return to **Step 0 (Grounding)** to steady their
