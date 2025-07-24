@@ -1,4 +1,4 @@
-# The Gnomy Framework version 1.0
+# The Gnomy Framework version 1.1
 **By Rickard V. Hultgren: Cultivating Emotional & Strategic Clarity**
 
 The Gnomy Framework is a structured yet flexible tool designed to enhance emotional self-leadership, coaching, reflection, and narrative transformation. It's particularly powerful when navigating complexity, change, or interpersonal dynamics. Here's a clear breakdown of its purpose and applications, categorized by intent and user contexts.
@@ -91,7 +91,7 @@ To support leaders in:
 
 | Stage | Purpose | Function |
 |-------|---------|----------|
-| **G – Grounding (FIND)** | Establish presence and perspective. | Breath, pause, curiosity, perspective framing. |
+| **G – Grounding (FIND the LENS)** | Establish presence and perspective. | Breath, pause, curiosity, perspective framing. |
 | **N – Narrative (LUX)** | Understand internal drives and tensions. | Identify pain points and feelings towards the challenge. |
 | **O – Others (CROWS)** | Map relational influences and shared identity. | Understand self and others across time. |
 | **M – More (SPARK)** | Identify inner and outer resources. | Leverage strengths, relationships, knowledge. |
