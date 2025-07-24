@@ -1,6 +1,7 @@
-# Gnomy Framework Reflection Questionnaire 1.0**\
+# Gnomy Framework Reflection Questionnaire 1.0
 Guided questions for deep reflection and insight within the Gnomy
-Framework\
+Framework 
+
 By Rickard V. Hultgren: Cultivating Emotional & Strategic Clarity
 
 **Creative Commons Attribution 4.0 International License (CC BY 4.0)**\
@@ -8,7 +9,7 @@ This work, \"TGnomy Framework Reflection Questionnaire 1.0: Cultivating
 Emotional & Strategic Clarity,\" by Rickard V. Hultgren, is licensed
 under a Creative Commons Attribution 4.0 International License. To view
 a copy of this license, visit
-<http://creativecommons.org/licenses/by/4.0/>.\
+<http://creativecommons.org/licenses/by/4.0/>.
 
 
 ## Step 0: Grounding (FIND the LENS) --- Find Your Inner Position
@@ -22,7 +23,6 @@ a copy of this license, visit
 -   What urge might others involved be experiencing that is like or
     unlike mine?
 
- answerbox
 
 
 ### I -- Introduce pause {#i-introduce-pause .unnumbered}
@@ -33,7 +33,6 @@ a copy of this license, visit
 
 -   What goals might others hold that I'm not fully aware of?
 
- answerbox
 
 
 ### N -- Notice urgency {#n-notice-urgency .unnumbered}
@@ -47,7 +46,6 @@ a copy of this license, visit
 -   What aspects of the situation are beyond my control, and how can I
     accept that?
 
- answerbox
 
 
 ### D -- Discern Stakes (and Divine Compassion) {#d-discern-stakes-and-divine-compassion .unnumbered}
@@ -64,7 +62,6 @@ a copy of this license, visit
 -   How can I approach this understanding with deep compassion and
     humility for everyone?
 
- answerbox
 
 
 ## Applying the LENS: Layered Emotive Narratives of Stakes {#applying-the-lens-layered-emotive-narratives-of-stakes .unnumbered}
@@ -77,7 +74,6 @@ a copy of this license, visit
 -   From their view: What past actions do they believe were justified or
     deserving credit?
 
- answerbox
 
 
 ### E -- Effort (Present) vs. Entitlement (Present) {#e-effort-present-vs.-entitlement-present .unnumbered}
@@ -88,7 +84,6 @@ a copy of this license, visit
 -   From their view: What actions do they see as justified, and why do
     they feel entitled?
 
- answerbox
 
 
 ### N -- Nuisance (Future) vs. Necessity (Future) {#n-nuisance-future-vs.-necessity-future .unnumbered}
@@ -99,7 +94,6 @@ a copy of this license, visit
 -   From their view: What future actions do they believe are necessary
     despite the impact on me?
 
- answerbox
 
 
 ### S -- Safety (My Goal) vs. Supremacy (Their Goal) {#s-safety-my-goal-vs.-supremacy-their-goal .unnumbered}
@@ -110,7 +104,6 @@ a copy of this license, visit
 -   What seems to be their ultimate goal for control, dominance, or
     supremacy?
 
- answerbox
 
 
 ## Step 1: Narrative of Emotion and Meaning
@@ -124,7 +117,6 @@ a copy of this license, visit
 -   What "attractive features" or delights am I missing or feeling, and
     what emotions do they evoke?
 
- answerbox
 
 
 **U -- Usefulness**
@@ -135,7 +127,6 @@ a copy of this license, visit
 -   What expected "performance features" are working or failing, and how
     does that make me feel?
 
- answerbox
 
 
 **X -- X-Friction**
@@ -146,7 +137,6 @@ a copy of this license, visit
 -   Which basic needs or "must-be" features are unmet, causing
     frustration or anxiety?
 
- answerbox
 
 
 ### 1.2 Others (CROWS) --- Who Else Is Part of This Emotional Story? {#others-crows-who-else-is-part-of-this-emotional-story .unnumbered}
@@ -156,7 +146,6 @@ a copy of this license, visit
 -   Who else is involved, and what might they be thinking or feeling
     right now?
 
- answerbox
 
 
 **R -- Retrospective self**
@@ -165,7 +154,6 @@ a copy of this license, visit
 
 -   What lessons from past challenges apply here?
 
- answerbox
 
 
 **O -- Optional future self**
@@ -175,7 +163,6 @@ a copy of this license, visit
 
 -   What advice might my wise future self offer?
 
- answerbox
 
 
 **W -- Wished-for others**
@@ -184,7 +171,6 @@ a copy of this license, visit
 
 -   What kind of connection or impact do I want to have with them?
 
- answerbox
 
 
 **S -- Shared past**
@@ -194,7 +180,6 @@ a copy of this license, visit
 
 -   How does our collective past shape current emotions and dynamics?
 
- answerbox
 
 
 ## Step 2: Reframe Through Shared Competence and Action
@@ -206,7 +191,6 @@ a copy of this license, visit
 -   What core strengths or positive qualities do I bring to this
     situation?
 
- answerbox
 
 
 **P -- Possibilities**
@@ -214,21 +198,18 @@ a copy of this license, visit
 -   What different paths or courses of action can I imagine, no matter
     how unconventional?
 
- answerbox
 
 
 **A -- Assets**
 
 -   What tangible and intangible resources do I have access to?
 
- answerbox
 
 
 **R -- Resourced Relationships**
 
 -   Who in my network can support or provide insight in this situation?
 
- answerbox
 
 
 **K -- Knowledge & Experience**
@@ -236,7 +217,6 @@ a copy of this license, visit
 -   What relevant lessons, frameworks, or facts do I already possess to
     guide me?
 
- answerbox
 
 
 ### 2.2 Yikes! (SAGE) --- Face Risks, Limits, and Priorities {#yikes-sage-face-risks-limits-and-priorities .unnumbered}
@@ -250,7 +230,6 @@ a copy of this license, visit
 
 -   **Successful**: What would a meaningful win look like here?
 
- answerbox
 
 
 **A -- Actions**
@@ -264,7 +243,6 @@ a copy of this license, visit
 -   **Aspiration**: What bold or values-aligned steps can I take toward
     success?
 
- answerbox
 
 
 **G -- Gauge**
@@ -273,7 +251,6 @@ a copy of this license, visit
 
 -   What is the immediate next step I can take?
 
- answerbox
 
 
 **E -- Evolution**
@@ -289,5 +266,4 @@ a copy of this license, visit
     gained? Who was affected? How will I share these insights with
     others?
 
- answerbox
 
