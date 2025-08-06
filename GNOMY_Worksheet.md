@@ -14,7 +14,7 @@ a copy of this license, visit
 
 ## Step 0: Grounding (FIND the LENS) --- Find Your Inner Position
 
-### F -- Feel your breath/urge {#f-feel-your-breathurge .unnumbered}
+### F -- Feel your breath/urge
 
 -   What urge or impulse do I notice in my body right now?
 
@@ -25,7 +25,7 @@ a copy of this license, visit
 
 
 
-### I -- Introduce pause {#i-introduce-pause .unnumbered}
+### I -- Introduce pause
 
 -   What else can I notice about my goals beyond the obvious ones?
 
@@ -35,7 +35,7 @@ a copy of this license, visit
 
 
 
-### N -- Notice urgency {#n-notice-urgency .unnumbered}
+### N -- Notice urgency
 
 -   Which goals feel most urgent or pressing for me and for others
     involved?
@@ -48,7 +48,7 @@ a copy of this license, visit
 
 
 
-### D -- Discern Stakes (and Divine Compassion) {#d-discern-stakes-and-divine-compassion .unnumbered}
+### D -- Discern Stakes (and Divine Compassion)
 
 -   Who is experiencing the highest emotional stakes right now, and what
     emotions reveal this?
@@ -64,9 +64,9 @@ a copy of this license, visit
 
 
 
-## Applying the LENS: Layered Emotive Narratives of Stakes {#applying-the-lens-layered-emotive-narratives-of-stakes .unnumbered}
+## Applying the LENS: Layered Emotive Narratives of Stakes
 
-### L -- Loss (Past) vs. Legitimacy (Past) {#l-loss-past-vs.-legitimacy-past .unnumbered}
+### L -- Loss (Past) vs. Legitimacy (Past)
 
 -   From my view: What past losses or harms do I perceive in this
     situation?
@@ -76,7 +76,7 @@ a copy of this license, visit
 
 
 
-### E -- Effort (Present) vs. Entitlement (Present) {#e-effort-present-vs.-entitlement-present .unnumbered}
+### E -- Effort (Present) vs. Entitlement (Present)
 
 -   From my view: What current challenges am I facing, and what effort
     am I making?
@@ -86,7 +86,7 @@ a copy of this license, visit
 
 
 
-### N -- Nuisance (Future) vs. Necessity (Future) {#n-nuisance-future-vs.-necessity-future .unnumbered}
+### N -- Nuisance (Future) vs. Necessity (Future)
 
 -   From my view: How might their future actions threaten or nuisance my
     goals?
@@ -96,7 +96,7 @@ a copy of this license, visit
 
 
 
-### S -- Safety (My Goal) vs. Supremacy (Their Goal) {#s-safety-my-goal-vs.-supremacy-their-goal .unnumbered}
+### S -- Safety (My Goal) vs. Supremacy (Their Goal)
 
 -   What is my ultimate goal for safety and well-being in this
     situation?
@@ -108,7 +108,7 @@ a copy of this license, visit
 
 ## Step 1: Narrative of Emotion and Meaning
 
-### 1.1 Narrative (LUX) --- Explore Your Emotions and Their Roots {#narrative-lux-explore-your-emotions-and-their-roots .unnumbered}
+### 1.1 Narrative (LUX) --- Explore Your Emotions and Their Roots 
 
 **L -- Longing**
 
@@ -139,7 +139,7 @@ a copy of this license, visit
 
 
 
-### 1.2 Others (CROWS) --- Who Else Is Part of This Emotional Story? {#others-crows-who-else-is-part-of-this-emotional-story .unnumbered}
+### 1.2 Others (CROWS) --- Who Else Is Part of This Emotional Story? 
 
 **C -- Current others**
 
@@ -184,7 +184,7 @@ a copy of this license, visit
 
 ## Step 2: Reframe Through Shared Competence and Action
 
-### 2.1 More (SPARK) --- Uncover Resources, Strengths, and Options {#more-spark-uncover-resources-strengths-and-options .unnumbered}
+### 2.1 More (SPARK) --- Uncover Resources, Strengths, and Options 
 
 **S -- Strengths**
 
@@ -219,7 +219,7 @@ a copy of this license, visit
 
 
 
-### 2.2 Yikes! (SAGE) --- Face Risks, Limits, and Priorities {#yikes-sage-face-risks-limits-and-priorities .unnumbered}
+### 2.2 Yikes! (SAGE) --- Face Risks, Limits, and Priorities 
 
 **S -- Spectrum**
 
