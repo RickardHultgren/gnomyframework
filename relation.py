@@ -1,5 +1,3 @@
-Yes — your draft pseudocode already mirrors the framework nicely. I’ll rewrite and structure it so it fully reflects the diagram and adds clarity on the decision logic, benignity checks, and outcomes:
-
 # INPUT: observation of context, group, individuals
 observe(context, group, individuals)
 
@@ -56,21 +54,4 @@ update_outcomes(
     creativity        = measure_idea_generation()
 )
 
-
----
-
-🔑 Key ideas in the pseudocode:
-
-Boundaries/norms are the input conditions.
-
-Violation type (self, other, we) maps to a distinct response mode (humor, gentleness, play).
-
-Benignity factors act as a filter — they decide whether the violation can be engaged with constructively or needs protective response.
-
-Attitudes/emotions (humility, compassion, curiosity, openness) shape how the response is delivered.
-
-Outcomes (trust, openness, critical thinking, creativity) measure whether the group dynamic improved.
-
-
-Would you like me to extend this pseudocode into a decision tree algorithm (something you could visualize as a flowchart) so it’s easier to use as a practical tool in live group settings?
 
