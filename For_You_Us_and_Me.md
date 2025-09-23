@@ -29,9 +29,9 @@ in the lantern light!
 
 ---
 
-If the crow’s call fades, send it once more,
+If the crow’s call fades, send it anew,
 
-If one leaf fails, reach for one more.
+If one leaf falls, reach for one too.
 
 If the spark hides, or the crow is gone,
 
