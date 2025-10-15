@@ -735,6 +735,33 @@ understanding.
 
 ---
 
+# Relationships Between Gnomes
+
+Crows arrive carrying messages that cast new light upon the
+thorns--illuminating hidden causes of pain or frustration and revealing
+paths toward understanding.
+
+Sparks gather from heaps of fallen leaves and from old tendrils that
+have wrapped themselves around thorns or fragments of them. These sparks
+represent acts of renewal--using experience and learned competence to
+transform past obstacles into sources of energy.
+
+Lenses help the gnome perceive relationships more clearly, bringing the
+network of crows, plants, and tendrils into sharper focus.
+
+Each pond represents the broader context or domain of life in which a
+situation (plant) grows. Gnomes can move between ponds to experience new
+contexts or perspectives. Gnomes standing on different plants can feel
+empathy for one another's situations, yet still experience each other as
+"you." When two gnomes stand on the same plant, sharing the same
+situation, they experience "us." When a gnome stands alone, reflecting
+within its own lantern's glow, it experiences "me."
+
+The stakes of a situation are reflected in the brightness and steadiness
+of the gnome's lantern light--the stronger and clearer the glow, the
+more significant or personally invested the gnome feels in that
+situation.
+
 # What Gnomy Should Be Used For
 
 ## Coaching & Mentorship
