@@ -1,10 +1,12 @@
-\documentclass[11pt]{article}
-\usepackage[margin=1in]{geometry}
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=2cm]{geometry}
 \usepackage{xcolor}
 \usepackage{titlesec}
 \usepackage[most]{tcolorbox}
 \usepackage{enumitem}
 \usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{fontawesome5}
 
 % Define custom colors
 \definecolor{gnomyGreen}{HTML}{2F4F4F}
@@ -17,307 +19,184 @@
 \titleformat{\section}
   {\normalfont\Large\bfseries\color{gnomyGreen}}
   {\thesection.}{0.5em}{}
-\titlespacing{\section}{0pt}{*3}{*1}
+\titlespacing{\section}{0pt}{*2}{*1}
 
 % Subsection style
 \titleformat{\subsection}
   {\normalfont\large\bfseries\color{gnomyPlum}}
-  {\thesubsection.}{0.5em}{}
-\titlespacing{\subsection}{0pt}{*2}{*1}
+  {\thesubsection}{0.5em}{}
+\titlespacing{\subsection}{0pt}{*1.5}{*0.5}
 
 % Answer box style
-\newtcolorbox{answerbox}[1][]{colback=gnomyCream,colframe=gnomyGreen,
-  boxrule=1pt,arc=4pt,width=\textwidth,boxsep=5pt,left=5pt,right=5pt,top=5pt,bottom=5pt,#1}
+\newtcolorbox{answerbox}[1][]{
+  colback=gnomyCream,
+  colframe=gnomyGreen,
+  boxrule=1pt,
+  arc=4pt,
+  width=\textwidth,
+  boxsep=3pt,
+  left=5pt,
+  right=5pt,
+  top=3pt,
+  bottom=3pt,
+  #1
+}
+
+% License box style
+\newtcolorbox{licensebox}{
+  colback=gray!10,
+  colframe=gray!50,
+  boxrule=0.5pt,
+  arc=2pt,
+  fontupper=\small
+}
 
 \begin{document}
 
 % Header Block
 {\centering
-\color{gnomyBrown}\textbf{\Huge Gnomy Framework Reflection Questionnaire 1.0}\\[1em]
-\color{gnomyGreen}\large Guided questions for deep reflection and insight within the Gnomy Framework\\
-    \color{VictorianGrey}\large By Rickard V. Hultgren: Cultivating Emotional \& Strategic Clarity
-    \vspace{0em} % Space after author line
-\vspace{1em}
+\color{gnomyBrown}\textbf{\Huge Gnomy Framework}\\[0.3em]
+\color{gnomyBrown}\textbf{\Huge Reflection Questionnaire}\\[0.5em]
+\color{gnomyGreen}\large Guided questions for deep reflection and insight\\[0.3em]
+\color{gnomyPlum}\normalsize Cultivating Emotional \& Strategic Clarity\\[0.5em]
+\color{gray}\normalsize By Rickard V. Hultgren\\
+\vspace{0.8em}
 }
 
-\begin{tcolorbox}[licensebox]
+\begin{licensebox}
   \centering
-  \textbf{Creative Commons Attribution 4.0 International License (CC BY 4.0)} \\
-  This work, "TGnomy Framework Reflection Questionnaire 1.0: Cultivating Emotional \& Strategic Clarity," by Rickard V. Hultgren, is licensed under a Creative Commons Attribution 4.0 International License. To view a copy of this license, visit \url{http://creativecommons.org/licenses/by/4.0/}. \\
+  \textbf{Creative Commons Attribution 4.0 International License (CC BY 4.0)} \\[0.2em]
+  This work is licensed under CC BY 4.0. To view a copy of this license, visit\\
+  \url{http://creativecommons.org/licenses/by/4.0/} \\[0.2em]
   \faIcon{creative-commons} \faIcon{creative-commons-by}
-\end{tcolorbox}
-}
+\end{licensebox}
+
+\vspace{0.5em}
 
 % Step 0: Grounding
-\section{Step 0: Grounding (FIND the LENS) --- Find Your Inner Position}
+\section{Grounding: Temporal \& Contextual Orientation}
 
-\subsection*{F – Feel your breath/urge}
+\subsection*{Temporal Frame}
+This reflection concerns: \hspace{1em} $\square$ Future plans \hspace{1em} $\square$ Present actions \hspace{1em} $\square$ Past memories
 
-\begin{itemize}[noitemsep]
-  \item What urge or impulse do I notice in my body right now?
-  \item What emotions are beneath this urge (e.g., anger, fear, excitement)?
-  \item What urge might others involved be experiencing that is like or unlike mine?
-\end{itemize}
+\vspace{0.3em}
+
+\noindent\textbf{Date of the situation being reflected upon:}
+\begin{answerbox}
+\vspace{2em}
+\end{answerbox}
+
+\noindent\textbf{Date of writing this reflection:}
+\begin{answerbox}
+\vspace{2em}
+\end{answerbox}
+
+\noindent\textbf{Brief description of the situation:}
 \begin{answerbox}
 \vspace{3em}
 \end{answerbox}
 
-\subsection*{I – Introduce pause}
+\section{Narrative Perspectives: Understanding Multiple Realities}
 
-\begin{itemize}[noitemsep]
-  \item What else can I notice about my goals beyond the obvious ones?
-  \item Which underlying or hidden goals might be influencing my reactions?
-  \item What goals might others hold that I’m not fully aware of?
-\end{itemize}
+\subsection{Perspective 1: Others' Narrative}
+
+\noindent\textbf{What is happening in this situation from others' perspective?}\\
+\textit{(Consider how other stakeholders would describe the events)}
 \begin{answerbox}
 \vspace{3em}
 \end{answerbox}
 
-\subsection*{N – Notice urgency}
-
-\begin{itemize}[noitemsep]
-  \item Which goals feel most urgent or pressing for me and for others involved?
-  \item What is one small constructive action I can take right now to address these goals?
-  \item What aspects of the situation are beyond my control, and how can I accept that?
-\end{itemize}
+\noindent\textbf{What are others' goals in this situation? Who is responsible for achieving these goals?}
 \begin{answerbox}
 \vspace{3em}
 \end{answerbox}
 
-\subsection*{D – Discern Stakes (and Divine Compassion)}
-
-\begin{itemize}[noitemsep]
-  \item Who is experiencing the highest emotional stakes right now, and what emotions reveal this?
-  \item Who faces the greatest physical vulnerability or potential harm here?
-  \item What core values or sacred concerns feel threatened for those involved?
-  \item How can I approach this understanding with deep compassion and humility for everyone?
-\end{itemize}
-\begin{answerbox}
-\vspace{4em}
-\end{answerbox}
-
-\section*{Applying the LENS: Layered Emotive Narratives of Stakes}
-
-\subsection*{L – Loss (Past) vs. Legitimacy (Past)}
-
-\begin{itemize}[noitemsep]
-  \item From my view: What past losses or harms do I perceive in this situation?
-  \item From their view: What past actions do they believe were justified or deserving credit?
-\end{itemize}
-\begin{answerbox}
-\vspace{4em}
-\end{answerbox}
-
-\subsection*{E – Effort (Present) vs. Entitlement (Present)}
-
-\begin{itemize}[noitemsep]
-  \item From my view: What current challenges am I facing, and what effort am I making?
-  \item From their view: What actions do they see as justified, and why do they feel entitled?
-\end{itemize}
-\begin{answerbox}
-\vspace{4em}
-\end{answerbox}
-
-\subsection*{N – Nuisance (Future) vs. Necessity (Future)}
-
-\begin{itemize}[noitemsep]
-  \item From my view: How might their future actions threaten or nuisance my goals?
-  \item From their view: What future actions do they believe are necessary despite the impact on me?
-\end{itemize}
-\begin{answerbox}
-\vspace{4em}
-\end{answerbox}
-
-\subsection*{S – Safety (My Goal) vs. Supremacy (Their Goal)}
-
-\begin{itemize}[noitemsep]
-  \item What is my ultimate goal for safety and well-being in this situation?
-  \item What seems to be their ultimate goal for control, dominance, or supremacy?
-\end{itemize}
-\begin{answerbox}
-\vspace{4em}
-\end{answerbox}
-
-% Step 1: Narrative of Emotion and Meaning
-\section{Step 1: Narrative of Emotion and Meaning}
-
-\subsection*{1.1 Narrative (LUX) --- Explore Your Emotions and Their Roots}
-
-\textbf{L – Longing}
-
-\begin{itemize}[noitemsep]
-  \item What desires or hopes am I secretly longing for in this situation?
-  \item What “attractive features” or delights am I missing or feeling, and what emotions do they evoke?
-\end{itemize}
+\noindent\textbf{Who has control in this situation according to others' perspective?}\\
+\textit{(Who do they see as having agency and decision-making power?)}
 \begin{answerbox}
 \vspace{3em}
 \end{answerbox}
 
-\textbf{U – Usefulness}
+\subsection{Perspective 2: Collective "We" Narrative}
 
-\begin{itemize}[noitemsep]
-  \item How does this situation affect my sense of control, competence, or well-being?
-  \item What expected “performance features” are working or failing, and how does that make me feel?
-\end{itemize}
+\noindent\textbf{What is our shared goal in this situation? Who is responsible for this collective goal?}
 \begin{answerbox}
 \vspace{3em}
 \end{answerbox}
 
-\textbf{X – X-Friction}
-
-\begin{itemize}[noitemsep]
-  \item What specific threats, irritations, or pressures am I experiencing right now?
-  \item Which basic needs or “must-be” features are unmet, causing frustration or anxiety?
-\end{itemize}
+\noindent\textbf{Who has control according to our collective perspective?}\\
+\textit{(Consider shared power and collaborative decision-making)}
 \begin{answerbox}
 \vspace{3em}
 \end{answerbox}
 
-\subsection*{1.2 Others (CROWS) — Who Else Is Part of This Emotional Story?}
-
-\textbf{C – Current others}
-
-\begin{itemize}[noitemsep]
-  \item Who else is involved, and what might they be thinking or feeling right now?
-\end{itemize}
+\noindent\textbf{What is happening in this situation from our collective perspective?}\\
+\textit{(How do we understand and interpret these events together?)}
 \begin{answerbox}
 \vspace{3em}
 \end{answerbox}
 
-\textbf{R – Retrospective self}
+\subsection{Perspective 3: Personal "Me" Narrative}
 
-\begin{itemize}[noitemsep]
-  \item How would my past self interpret or feel about this situation?
-  \item What lessons from past challenges apply here?
-\end{itemize}
-\begin{answerbox}
-\vspace{4em}
-\end{answerbox}
-
-\textbf{O – Optional future self}
-
-\begin{itemize}[noitemsep]
-  \item What emotional legacy do I want my future self to see from this moment?
-  \item What advice might my wise future self offer?
-\end{itemize}
-\begin{answerbox}
-\vspace{4em}
-\end{answerbox}
-
-\textbf{W – Wished-for others}
-
-\begin{itemize}[noitemsep]
-  \item Are there people whose opinions I value or wish to impress here?
-  \item What kind of connection or impact do I want to have with them?
-\end{itemize}
-\begin{answerbox}
-\vspace{4em}
-\end{answerbox}
-
-\textbf{S – Shared past}
-
-\begin{itemize}[noitemsep]
-  \item What shared histories or experiences influence this moment for those involved?
-  \item How does our collective past shape current emotions and dynamics?
-\end{itemize}
-\begin{answerbox}
-\vspace{4em}
-\end{answerbox}
-
-% Step 2: Reframe Through Shared Competence and Action
-\section{Step 2: Reframe Through Shared Competence and Action}
-
-\subsection*{2.1 More (SPARK) --- Uncover Resources, Strengths, and Options}
-
-\textbf{S – Strengths}
-
-\begin{itemize}[noitemsep]
-  \item What core strengths or positive qualities do I bring to this situation?
-\end{itemize}
+\noindent\textbf{What is my personal goal in this situation? Who is responsible for this goal?}
 \begin{answerbox}
 \vspace{3em}
 \end{answerbox}
 
-\textbf{P – Possibilities}
-
-\begin{itemize}[noitemsep]
-  \item What different paths or courses of action can I imagine, no matter how unconventional?
-\end{itemize}
+\noindent\textbf{Who has control according to my perspective?}\\
+\textit{(Where do I see agency and influence residing?)}
 \begin{answerbox}
 \vspace{3em}
 \end{answerbox}
 
-\textbf{A – Assets}
-
-\begin{itemize}[noitemsep]
-  \item What tangible and intangible resources do I have access to?
-\end{itemize}
+\noindent\textbf{What is happening in this situation from my personal perspective?}\\
+\textit{(My subjective interpretation and understanding)}
 \begin{answerbox}
 \vspace{3em}
 \end{answerbox}
 
-\textbf{R – Resourced Relationships}
+\section{Reframing Through Integration \& Shared Competence}
 
-\begin{itemize}[noitemsep]
-  \item Who in my network can support or provide insight in this situation?
-\end{itemize}
+\subsection{Values \& Empathy}
+
+\noindent\textbf{What are my core values connected to my goal?}\\
+\textit{(What principles or beliefs drive this goal for me?)}
 \begin{answerbox}
 \vspace{3em}
 \end{answerbox}
 
-\textbf{K – Knowledge \& Experience}
-
-\begin{itemize}[noitemsep]
-  \item What relevant lessons, frameworks, or facts do I already possess to guide me?
-\end{itemize}
+\noindent\textbf{What do I empathize with in others' situation?}\\
+\textit{(Which of my values can I recognize in others' struggle to achieve their goals?)}
 \begin{answerbox}
 \vspace{3em}
 \end{answerbox}
 
-\subsection*{2.2 Yikes! (SAGE) --- Face Risks, Limits, and Priorities}
+\subsection{Creative Adaptation \& Alignment}
 
-\textbf{S – Spectrum}
-
-\begin{itemize}[noitemsep]
-  \item \textbf{Scary}: What is the worst-case outcome if I take action?
-  \item \textbf{Sufficient}: What minimum outcome would be good enough to move forward?
-  \item \textbf{Successful}: What would a meaningful win look like here?
-\end{itemize}
-\begin{answerbox}
-\vspace{4em}
-\end{answerbox}
-
-\textbf{A – Actions}
-
-\begin{itemize}[noitemsep]
-  \item \textbf{Avoidance}: What might I be tempted to avoid or delay, and what happens if I do?
-  \item \textbf{Anchoring}: What steady actions can keep me resilient through stress?
-  \item \textbf{Aspiration}: What bold or values-aligned steps can I take toward success?
-\end{itemize}
-\begin{answerbox}
-\vspace{4em}
-\end{answerbox}
-
-\textbf{G – Gauge}
-
-\begin{itemize}[noitemsep]
-  \item Which actions are most urgent and important right now?
-  \item What is the immediate next step I can take?
-\end{itemize}
+\noindent\textbf{How might I adapt or reframe my goal to also accommodate others' goals?}\\
+\textit{(What creative adjustments could honor both perspectives? Is this aligned with my values?)}
 \begin{answerbox}
 \vspace{3em}
 \end{answerbox}
 
-\textbf{E – Evolution}
+\subsection{Benign Violation \& Playful Engagement}
 
-\begin{itemize}[noitemsep]
-  \item \textbf{Examine}: What feedback or new information am I noticing from my actions?
-  \item \textbf{Evaluate}: What parts of my plan work well, and which don’t?
-  \item \textbf{Edit}: What must I adjust or let go of?
-  \item \textbf{Expand}: What pain points have eased? What insights have I gained? Who was affected? How will I share these insights with others?
-\end{itemize}
+\noindent\textbf{How can I approach goal discrepancies with lightness and humor?}\\
+\textit{(How might I use benign energy or gentle humor to address tensions around conflicting goals? What would make this situation more human and approachable?)}
 \begin{answerbox}
-\vspace{5em}
+\vspace{3em}
+\end{answerbox}
+
+\section{Synthesis \& Action}
+
+\noindent\textbf{What insights have emerged from exploring these different perspectives?}
+\begin{answerbox}
+\vspace{3em}
+\end{answerbox}
+
+\noindent\textbf{What is one concrete action I can take based on this reflection?}
+\begin{answerbox}
+\vspace{3em}
 \end{answerbox}
 
 \end{document}
